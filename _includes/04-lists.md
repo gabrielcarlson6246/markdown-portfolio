@@ -1,3 +1,3 @@
-Video Games
-Food
-Electronics
+- Video Games
+- Food
+- Electronics
